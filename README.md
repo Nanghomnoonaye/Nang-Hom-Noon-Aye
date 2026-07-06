@@ -1,12 +1,12 @@
-# Hi, I'm Hom 👋
+# Hi, I'm Hom <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/8e97d28a-ca52-4071-87ac-ed0707133712" />
 
- **MBA Candidate (International Business)** at National Chi Nan University, Taiwan.
+ **MBA Candidate (International Business)** at NCNU, Taiwan.
  **Background:** Quality & project management in electronics manufacturing.
  **Targeting:** Project management and business analyst roles in **Medical Devices** & **Semiconductor**.
 
 ---
 
-###  My Data & Quality Toolkit
+###  My Data & Quality Toolkit <img width="26" height="26" alt="image" src="https://github.com/user-attachments/assets/6c4a4521-3aec-4643-9cb6-466e2c791bff" />
 
 | Methodology & PM | Data & Analytics | Languages |
 | :--- | :--- | :--- |
@@ -14,7 +14,7 @@
 
 ---
 
-###  Mini Projects
+###  Mini Projects <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/fbb8ebd2-646a-4f80-b85a-134a7f27d72a" />
 
 *   **[Quality Data Analysis](https://github.com/Nanghomnoonaye/Quality-DataAnalysis)**
     *   *A repository dedicated to analyzing manufacturing quality metrics, optimizing process efficiency, and visualizing data to drive continuous improvement.*
